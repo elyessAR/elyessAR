@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Elyes Arifa</h1>
-<h3 align="center">A software engineer from Tunisia</h3>
+
+<h3 align="center">A software engineer</h3>
 
 - 📫 How to reach me **arifa.elyes@gmail.com**
 
