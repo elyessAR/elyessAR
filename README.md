@@ -1,7 +1,7 @@
 
 <h3 align="center">A software engineer</h3>
 
-- 📫 How to reach me **arifa.elyes@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
